@@ -1,6 +1,6 @@
-Solvent Cities — third-party notices
+Glowing Atlas — third-party notices
 
-This file includes notices for installed production dependencies, including some development-time type definitions distributed with those packages. Solvent Cities source remains separately licensed.
+This file includes notices for installed production dependencies, including some development-time type definitions distributed with those packages. Glowing Atlas source remains separately licensed.
 
 Geography: Natural Earth country boundaries are public domain. Source and processing notes: maps/README.txt.
 
