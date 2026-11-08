@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /solvent-cities-play/
+Disallow: /solvent-cities-play/cafe.html
+
+Sitemap: https://koko3tallah.github.io/solvent-cities-play/sitemap.xml
